@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-homework-template/static/js/main.170a5d6b.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.170a5d6b.js.map": "/react-homework-template/static/js/main.170a5d6b.js.map"
+    "main.js": "/react-modal_deploy/static/js/main.170a5d6b.js",
+    "index.html": "/react-modal_deploy/index.html",
+    "main.170a5d6b.js.map": "/react-modal_deploy/static/js/main.170a5d6b.js.map"
   },
   "entrypoints": [
     "static/js/main.170a5d6b.js"
